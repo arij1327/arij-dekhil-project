@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/a1"
+        android:title="Acceuil"></item>
+    <item android:id="@+id/a2"
+        android:title="Gestion eleve"></item>
+    <item android:id="@+id/a3"
+        android:title="Contact parent"></item>
+
+</menu>
